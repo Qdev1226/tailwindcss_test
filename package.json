@@ -1,5 +1,24 @@
 {
-  "devDependencies": {
+  "name": "tailwindcss_test",
+  "version": "1.0.0",
+  "description": "tailwindcss_test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Qdev1226/tailwindcss_test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Qdev1226/tailwindcss_test/issues"
+  },
+  "homepage": "https://github.com/Qdev1226/tailwindcss_test#readme",
+  "dependencies": {
+    "autoprefixer": "^10.4.15",
+    "postcss": "^8.4.28",
     "tailwindcss": "^3.3.3"
   }
 }
