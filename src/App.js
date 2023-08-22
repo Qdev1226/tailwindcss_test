@@ -1,12 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
+import Header from './containers/Layout/Header'
 
 function App() {
   return (
     <div className="App">
-      <div class="container mx-auto px-4">
-        adblock
-      </div>
+      <Header />
     </div>
   );
 }
